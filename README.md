@@ -5,4 +5,5 @@
 
 ### 填写并生成config.ini
 
+### User Portrait-Labeling System为另一个标签系统的项目。
 
