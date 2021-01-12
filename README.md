@@ -4,6 +4,5 @@
 此文件夹为模型文件夹
 
 ### 填写并生成config.ini
-### ```python grpc_app.py`````
 
 
